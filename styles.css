@@ -1,64 +1,65 @@
 html {
     background-color: lightgray;
-  }
+}
   
-  h1 {
+h1 {
     text-align: center;
-  }
+}
   
-  p#description {
+p#description {
     text-align: center;
-  }
+}
   
-  #form {
+#form {
     display: flex;
-      justify-content: center;
-  }
+    justify-content: center;
+}
   
-  form {
+form {
     background-color: white;
     width: 300px;
     display: inline-block;
     border: 10px solid black;
     padding: 10px;
-    padding-bottom: 40px;
-  }
+    padding-bottom: 10px;
+}
   
-  label {
+label {
     text-align: left;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
-  }
+}
   
-  input {
+input {
     padding: 5px;
-  }
+}
   
-  #female-label {
+#female-label {
     margin-left: 66px;
-  }
+}
   
-  #other-label{
+#other-label{
     margin-left:  66px;
-  }
+}
   
-  #vehicle1 {
+#vehicle1 {
     margin-left: 13px;
-  }
+}
   
-  #vehicle2 {
+#vehicle2 {
     margin-left: 13px;
-  }
+}
   
-  #vehicle3 {
+#vehicle3 {
     margin-left: 13px;
-  }
+}
   
-  textarea {
+textarea {
     margin-left: 10px;
-  }
+}
   
-  #submit {
+#submit {
     float: right;
-  }
+    margin-right: 10px;
+}
